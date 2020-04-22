@@ -1,1 +1,1 @@
-{"poiList":[{"id":1,"coordinate":{"latitude":2.25,"longitude":5.145},"fleetType":"FLEET_TYPE_TAXI","heading":65},{"id":2,"coordinate":{"latitude":5.544,"longitude":2.345},"fleetType":"FLEET_TYPE_POOLING","heading":65}]}
+{"poiList":[{"id":1,"coordinate":{"latitude":2.25,"longitude":5.145},"fleetType":"TAXI","heading":1.125},{"id":2,"coordinate":{"latitude":5.544,"longitude":2.345},"fleetType":"POOLING","heading":3.145}]}
